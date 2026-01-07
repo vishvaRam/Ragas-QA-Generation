@@ -1,4 +1,4 @@
-AS$ uv run new.py 
+AS$ uv run main.py 
 /mnt/D/Data_Science/Project/QA-Generation-RAGAS/.venv/lib/python3.11/site-packages/instructor/providers/gemini/client.py:6: FutureWarning: 
 
 All support for the `google.generativeai` package has ended. It will no longer be receiving 
