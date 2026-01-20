@@ -15,9 +15,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- Configuration ---
-DIRECTORIES = ["Data/Books-MD/Chemistry/Chemistry-kech1-MD"]
-OUTPUT_FILE = "Ragas/Chemistry-kech1-MD.json"
-KG_OUTPUT_FILE = "Ragas/Chemistry-kech1-MD-knowledge_graph.json"
+DIRECTORIES = ["Data/Books-MD/Chemistry/Chemistry-kech2-MD"]
+OUTPUT_FILE = "Ragas/Chemistry-kech2-MD.json"
+KG_OUTPUT_FILE = "Ragas/Chemistry-kech2-MD-knowledge_graph.json"
 
 # --- Setup LLM and Embeddings ---
 print("\nSetting up Gemini LLM and HuggingFace embeddings...")
