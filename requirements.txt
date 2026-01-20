@@ -1,6 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 langchain-community
-google-genai
 ragas
 python-dotenv
 pandas
@@ -9,3 +8,6 @@ sentence-transformers
 jsonref
 ipykernel
 ipywidgets
+langchain-huggingface
+langchain-openai
+rapidfuzz
